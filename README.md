@@ -1,5 +1,5 @@
 # donor-recognition-page-case-study
-SVPM WordPress dev experience for Sprint 31 
+Case study from Sprint 31 at SVPM highlighting my work as a WordPress developer. Includes planning, implementation, and documentation of a new donor recognition page in a collaborative Agile environment.
 
 # Donor Recognition Page – SVPM Sprint 31 Case Study
 
